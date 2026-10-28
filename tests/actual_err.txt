@@ -1,0 +1,14 @@
+divide by zero
+modulo by zero
+number expected
+get: undefined name flkj430478908ufn5649058s6767
+Bad token
+number expected
+= missing in declaration of t
+name expected in declaration
+name expected in declaration
+name expected in declaration
+x declared twice
+pi declared twice
+get: undefined name y
+pi is a constant

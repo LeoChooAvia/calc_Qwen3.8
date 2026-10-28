@@ -1,0 +1,8 @@
+# Стиль оформления кода проекта «Калькулятор».
+# База — LLVM; отличия: фигурные скобки на новой строке (Allman), отступ 4 пробела.
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 80
+BreakBeforeBraces: Allman
+IndentCaseLabels: true
+PointerAlignment: Left
